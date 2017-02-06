@@ -1,2 +1,3 @@
 # hello-world
-ignore - sample
+## sample project
+ignore this
